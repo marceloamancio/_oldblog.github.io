@@ -4,4 +4,10 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation.
+My research background is on Natural Language Processing with research masters on Question Generation at University of São Paulo.
+
+Currently I am a freelancer who provide Machine Learning solutions for medium-sized companies.
+
+What excites me is to create new technologies specially using Machine Learning.
+
+I  also have a great passion for teaching and education.
